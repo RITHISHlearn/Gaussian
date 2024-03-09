@@ -9,7 +9,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 1. At first, we have imported the necessary libraries we will use in our program.
-2. 
+ 
 
 2.Read Number of Unknowns: n
 
